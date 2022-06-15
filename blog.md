@@ -1,7 +1,7 @@
 # [Replace this with your project title]
 
 ## About Me
-
+Hi, I am Jacky, and I am currently stucking on the week1 step1. 
 ## The Premise
 
 ## Tools used
