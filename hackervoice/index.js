@@ -6,7 +6,7 @@ module.exports = async function (context, req) {
 
     let result = ""
 
-    if (password == "letmein1"){
+    if (password == "letmein12"){
         result = "Access granted."
     }
 
